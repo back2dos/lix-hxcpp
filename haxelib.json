@@ -1,0 +1,15 @@
+{
+  "name": "lix-hxcpp",
+  "license": "MIT",
+  "tags": [
+    "test"
+  ],
+  "classPath": "src",
+  "contributors": [
+    "back2dos"
+  ],
+  "releasenote": "initial release",
+  "version": "0.0.0",
+  "url": "https://github.com/back2dos/lix-hxcpp/",
+  "dependencies": {}
+}
