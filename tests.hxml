@@ -1,4 +1,4 @@
 -cp tests
 -main RunTests
 -dce full
--cpp out
+-cpp bin
